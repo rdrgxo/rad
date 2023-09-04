@@ -1,0 +1,18 @@
+Aula 02: 
+1) A opção que NÃO é uma vantagem da metodologia RAD é:
+
+LETRA E
+
+2) A opção CORRETA em relação aos frameworks para desenvolvimento de aplicações RAD é:
+
+LETRA A
+
+Aula 03: 
+
+1) A opção correta é:
+
+LETRA B
+
+2) A maneira correta de abrir um arquivo de texto em Python é utilizando o método:
+
+b) open("nome_arquivo", "r")
